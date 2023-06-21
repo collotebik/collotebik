@@ -1,6 +1,4 @@
 - 👋 Hi, I’m tebik
-- 👀 I’m interested in ... Cyber Security.
-- 🌱 I’m currently learning ... HACK!NG :)
 - 💞️ I’m looking to collaborate on peer hacking.
 - 📫 How to reach me ... ig: tebik._
 
